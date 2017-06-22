@@ -1,5 +1,7 @@
 ## Welcome to the #homelesshack github pages
 
+*Suggestions? [Add an issue](https://github.com/homelesshack/homelesshack.github.io/issues) in GitHub*
+
 ### Event details
 [London 23rd - 24th June 2017](https://www.eventbrite.com/e/homelesshack-tickets-32406738427)
 
