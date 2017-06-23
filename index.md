@@ -5,6 +5,13 @@
 ### Event details
 [London 23rd - 24th June 2017](https://www.eventbrite.com/e/homelesshack-tickets-32406738427)
 
+#### Projects in progress
+
+- Better matching of volunteer supply and demand
+- Mining and analysing data on housing benefit rates and actual rents
+- Research on building conversations and relationships
+- Prototyping street furniture to help people meet and engage
+
 #### Friday Session Grid
 
 |Time|Ground 1|Ground 2|Terrace 3|Terrace|
@@ -31,6 +38,10 @@ More to come soon
 [Insights Trello board](https://trello.com/b/7KCrWt32/homeless-hack-research-analysis)
 
 [Data sources and data ideas](https://docs.google.com/document/d/1vqk_3hoVlpTnv8Q8_TnOQDM94UX_e3JH9PmiJ3W43kE/edit?usp=sharing)
+
+[GitHub repositories](https://github.com/homelesshack) Contact one of the [owners](https://github.com/orgs/homelesshack/people?utf8=%E2%9C%93&query=%20role%3Aowner) for access.
+
+[Trello board for rent data mining](https://trello.com/b/IpLHkVNU/sar)
 
 ### What are people saying?
 
