@@ -5,6 +5,23 @@
 ### Event details
 [London 23rd - 24th June 2017](https://www.eventbrite.com/e/homelesshack-tickets-32406738427)
 
+#### Friday Session Grid
+
+|Time|Space 1|Space 2|Space 3|Space 4| Space 5|
+|--
+|    |Lead:       |Lead:       |Lead:       |Lead:       |Lead:        |
+|    |Topic:       |Topic:       |Topic:       |Topic:       |Topic:        |
+|--
+|    |Lead:       |Lead:       |Lead:       |Lead:       |Lead:        |
+|    |Topic:       |Topic:       |Topic:       |Topic:       |Topic:        |
+|--
+|    |Lead:       |Lead:       |Lead:       |Lead:       |Lead:        |
+|    |Topic:       |Topic:       |Topic:       |Topic:       |Topic:        |
+|--
+|    |Lead:       |Lead:       |Lead:       |Lead:       |Lead:        |
+|    |Topic:       |Topic:       |Topic:       |Topic:       |Topic:        |
+|--
+
 [Manchester 30th June - 1st July 2017](https://www.manchesterdigital.com/events/homelesshack)
 
 [Archive of 2012](http://web.archive.org/web/20161024022404/http://homelesshack.com/)
