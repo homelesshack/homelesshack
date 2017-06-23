@@ -7,19 +7,15 @@
 
 #### Friday Session Grid
 
-|Time|Space 1|Space 2|Space 3|Space 4| Space 5|
+|Time|Ground 1|Ground 2|Terrace 3|Terrace|
 |--
-|    |Lead:       |Lead:       |Lead:       |Lead:       |Lead:        |
-|    |Topic:       |Topic:       |Topic:       |Topic:       |Topic:        |
+|12:45 - 13:00|How to bring empty homes into use (200,000?)|Using data to get closer to the root causes|   |Mapping less obvious user groups|
 |--
-|    |Lead:       |Lead:       |Lead:       |Lead:       |Lead:        |
-|    |Topic:       |Topic:       |Topic:       |Topic:       |Topic:        |
+|13:45 - 14:30|Documentation and identity for homelessness|Crowd funding employment training|What can/should individuals do & "Donor Card" for those who want to help| |
 |--
-|    |Lead:       |Lead:       |Lead:       |Lead:       |Lead:        |
-|    |Topic:       |Topic:       |Topic:       |Topic:       |Topic:        |
+|14:45 - 15:30|Stranger no more & big data from street conversations|How to use chatbots to prevent homelessness or provide support|  |Dyslexia and homelessness|
 |--
-|    |Lead:       |Lead:       |Lead:       |Lead:       |Lead:        |
-|    |Topic:       |Topic:       |Topic:       |Topic:       |Topic:        |
+|15:45 - 16:30|Content Design - Say good things, get feedback|Finding local gaps between benefits and rental costs|Working with police to design a homeless working group|
 |--
 
 [Manchester 30th June - 1st July 2017](https://www.manchesterdigital.com/events/homelesshack)
