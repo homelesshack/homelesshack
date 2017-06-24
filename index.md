@@ -1,8 +1,8 @@
 *Suggestions? [Add an issue](https://github.com/homelesshack/homelesshack.github.io/issues) in GitHub*
 
-# Wondering about getting involved? How about just giving it a try?
+## Interested in homelessnes? Wondering about getting involved? Why not try this?
 
-If you get involved just to find out more about this topic that would be great. If you would like to do more it doesn't really matter how much time you can spare or what skills and experience you can offer - there will be a team that would love to have your support and encouragement and you will probably learn something new.
+If you get involved just to find out more about [homelessness](https://www.manchesterdigital.com/events/homelesshack) that would be great. If you would like to do more it doesn't really matter how much time you can spare or what skills and experience you can offer - there will be a team that would love to have your support and encouragement and you will probably learn something new.
 
 There are conversations going on in social media and [#homelesshack in twitter](https://twitter.com/search?src=typd&q=%23homelesshack) has become a kind of community notice board to share information and ask for help.
 
