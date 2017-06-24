@@ -21,6 +21,7 @@ Small groups are organising events or trying out new ideas. We have provided [li
 - Mining and analysing data on housing benefit rates and actual rents
 - Research on building conversations and relationships
 - Prototyping street furniture to help people meet and engage
+- Safe space knowledge for frontline police officers
 
 ### [Manchester 30th June - 1st July 2017](https://www.manchesterdigital.com/events/homelesshack)
 
