@@ -16,6 +16,14 @@
 
 [Manchester 30th June - 1st July 2017](https://www.manchesterdigital.com/events/homelesshack)
 
+Leeds (tbc)
+
+Bristol (tbc)
+
+Oxford (tbc)
+
+Cambridge (tbc)
+
 [Archive of 2012](http://web.archive.org/web/20161024022404/http://homelesshack.com/)
 
 More to come soon
