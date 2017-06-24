@@ -5,7 +5,7 @@
 ### Event details
 [London 23rd - 24th June 2017](https://www.eventbrite.com/e/homelesshack-tickets-32406738427)
 
-<div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"><a href="https://www.voucherbadger.co.uk/linksoflondon/">Enjoy big discounts for Links of London with these vouchers.</a></div><small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/janethughes/albums/72157685400240055&sort=0&by=album&theme=default&scale=fill&limit=10&skin=default'></script>
+<div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"><a href="https://www.voucherbadger.co.uk/linksoflondon/">Enjoy big discounts for Links of London with these vouchers.</a></div><small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/janethughes/albums/72157685400240055&sort=3&by=album&theme=slider&scale=fill&limit=100&skin=default'></script>
 
 #### Projects in progress
 
