@@ -5,7 +5,7 @@
 ### Event details
 [London 23rd - 24th June 2017](https://www.eventbrite.com/e/homelesshack-tickets-32406738427)
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/janethughes/albums/72157685400240055" title="#homelesshack London June 2017"><img src="https://c1.staticflickr.com/5/4286/35482957205_fb0dbe2d11_n.jpg" width="320" height="213" alt="#homelesshack London June 2017"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"><a href="https://www.voucherbadger.co.uk/linksoflondon/">Enjoy big discounts for Links of London with these vouchers.</a></div><small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/janethughes/albums/72157685400240055&sort=0&by=album&theme=default&scale=fill&limit=10&skin=default'></script>
 
 #### Projects in progress
 
