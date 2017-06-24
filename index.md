@@ -1,9 +1,17 @@
-## Welcome to the #homelesshack github pages
-
 *Suggestions? [Add an issue](https://github.com/homelesshack/homelesshack.github.io/issues) in GitHub*
 
-### Event details
-[London 23rd - 24th June 2017](https://www.eventbrite.com/e/homelesshack-tickets-32406738427)
+# Wondering about getting involved? How about just giving it a try?
+
+If you get involved just to find out more about this topic that would be great. If you would like to do more it doesn't really matter how much time you can spare or what skills and experience you can offer - there will be a team that would love to have your support and encouragement and you will probably learn something new.
+
+There are conversations going on in social media and [#homelesshack in twitter](https://twitter.com/search?src=typd&q=%23homelesshack) has become a kind of community notice board to share information and ask for help.
+
+[Events](#event-details) are fun, motivating and a great way to get a lot of information in a short space of time. [Events](#event-details) are being organised around the country and it would be great to see more of different shapes and sizes in more places.
+
+Small groups are organising events or trying out new ideas. We have provided [links](#useful-links) to most of these. If you are not sure how to help feel free to contact the team directly.
+
+## Event details
+### [London 23rd - 24th June 2017](https://www.eventbrite.com/e/homelesshack-tickets-32406738427)
 
 <div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"><a href="https://www.voucherbadger.co.uk/linksoflondon/">Enjoy big discounts for Links of London with these vouchers.</a></div><small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/janethughes/albums/72157685400240055&sort=3&by=album&theme=slider&scale=fill&limit=100&skin=default'></script>
 
@@ -14,21 +22,21 @@
 - Research on building conversations and relationships
 - Prototyping street furniture to help people meet and engage
 
-[Manchester 30th June - 1st July 2017](https://www.manchesterdigital.com/events/homelesshack)
+### [Manchester 30th June - 1st July 2017](https://www.manchesterdigital.com/events/homelesshack)
 
-Leeds (tbc)
+### Leeds (tbc)
 
-Bristol (tbc)
+### Bristol (tbc)
 
-Oxford (tbc)
+### Oxford (tbc)
 
-Cambridge (tbc)
+### Cambridge (tbc)
 
-[Archive of 2012](http://web.archive.org/web/20161024022404/http://homelesshack.com/)
+### [Archive of 2012](http://web.archive.org/web/20161024022404/http://homelesshack.com/)
 
-More to come soon
+*More to come soon*
 
-### Useful Links
+## Useful Links
 
 [Folder for write ups](https://drive.google.com/drive/mobile/folders/0Bw75qK9Aqm79djlka1gteThCV00?urp=https://t.co/Y663sovChl?amp%3D1)
 
@@ -42,7 +50,7 @@ More to come soon
 
 [Trello board for rent data mining](https://trello.com/b/IpLHkVNU/sar)
 
-### What are people saying?
+## Join in the conversation
 
 <a href="https://twitter.com/intent/tweet?button_hashtag=homelesshack" class="twitter-hashtag-button" data-show-count="false">Tweet #homelesshack</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
