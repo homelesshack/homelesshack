@@ -10,16 +10,15 @@ There are conversations going on in social media and [#homelesshack in twitter](
 
 Small groups are organising events or trying out new ideas. We have provided [links](#useful-links) to most of these. If you are not sure how to help feel free to contact the team directly.
 
-## Event details
-### [London 23rd - 24th June 2017](https://www.eventbrite.com/e/homelesshack-tickets-32406738427)
-
-#### Projects in progress
+## Projects in progress
 
 - Better matching of volunteer supply and demand
 - Mining and analysing data on housing benefit rates and actual rents
 - Research on building conversations and relationships
 - Prototyping street furniture to help people meet and engage
 - Safe space knowledge for frontline police officers
+
+## Event details
 
 ### [Manchester 30th June - 1st July 2017](https://www.manchesterdigital.com/events/homelesshack)
 
@@ -30,6 +29,10 @@ Small groups are organising events or trying out new ideas. We have provided [li
 ### Oxford (tbc)
 
 ### Cambridge (tbc)
+
+## Past Events
+### [London 23rd - 24th June 2017](https://www.eventbrite.com/e/homelesshack-tickets-32406738427)
+[London Session Grid](062017london.md)
 
 ### [Archive of 2012](http://web.archive.org/web/20161024022404/http://homelesshack.com/)
 
@@ -59,17 +62,3 @@ Small groups are organising events or trying out new ideas. We have provided [li
 ## Event photos
 
 <div id="flickrembed"></div><div style="position:absolute; top:-70px; display:block; text-align:center; z-index:-1;"><a href="https://www.voucherbadger.co.uk/linksoflondon/">Enjoy big discounts for Links of London with these vouchers.</a></div><small style="display: block; text-align: center; margin: 0 auto;">Powered by <a href="https://flickrembed.com">flickr embed</a>.</small><script src='https://flickrembed.com/embed_v2.js.php?source=flickr&layout=responsive&input=www.flickr.com/photos/janethughes/albums/72157685400240055&sort=3&by=album&theme=slider&scale=fill&limit=100&skin=default'></script>
-
-#### Friday Session Grid
-
-|Time|Ground 1|Ground 2|Terrace 3|Terrace|
-|--
-|12:45 - 13:00|How to bring empty homes into use (200,000?)|Using data to get closer to the root causes|   |Mapping less obvious user groups|
-|--
-|13:45 - 14:30|Documentation and identity for homelessness|Crowd funding employment training|What can/should individuals do & "Donor Card" for those who want to help| |
-|--
-|14:45 - 15:30|Stranger no more & big data from street conversations|How to use chatbots to prevent homelessness or provide support|  |Dyslexia and homelessness|
-|--
-|15:45 - 16:30|Content Design - Say good things, get feedback|Finding local gaps between benefits and rental costs|Working with police to design a homeless working group|
-|--
-
