@@ -21,6 +21,7 @@ Small groups are organising events or trying out new ideas. We have provided [li
 ## Event details
 
 ### [Manchester 30th June - 1st July 2017](https://www.manchesterdigital.com/events/homelesshack)
+[Manchester Session Grid](062017Manchester.md)
 
 ### Leeds (tbc)
 
