@@ -11,7 +11,7 @@ Talks:
 
 10.45 – Beth Knowles, Co-Chair of the GM Homelessness Action Network
 
-11 am – PC Dave Fisher, Greater Manchester Police
+11.00 – PC Dave Fisher, Greater Manchester Police
 
 11.15 – Break
 
