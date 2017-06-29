@@ -7,6 +7,7 @@ Valtech Office, Basil Chambers, 65 High Street, Manchester M4 1FS (next to Feder
 10 am – Welcome, plans, housekeeping and code of conduct
 
 Talks:
+
 10.15 – Viv Slack, Founder of Street Support
 
 10.45 – Beth Knowles, Co-Chair of the GM Homelessness Action Network
