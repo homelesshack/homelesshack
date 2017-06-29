@@ -21,4 +21,3 @@ Talks:
 1.30 – Q&A and open floor discussion
 2pm – Teams form and get to work
 
-<iframe src="https://www.google.co.uk/maps/place/Valtech+UK/@53.4841845,-2.2395151,18z/data=!3m1!4b1!4m5!3m4!1s0x487bb1b8a135d0f3:0x6d98285c59886955!8m2!3d53.4841845!4d-2.2384208" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
