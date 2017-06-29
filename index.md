@@ -42,15 +42,18 @@ Small groups are organising events or trying out new ideas. We have provided [li
 ## Useful Links
 
 [Slack channel for Manchester event](https://join.slack.com/homeless-hack-mcr/shared_invite/MjAzMDUwNzMwOTQ1LTE0OTg0OTIzMDEtNGVlOGZjZTZjOQ)
+
 [Manchester Homeless Hack - Challenges](https://docs.google.com/document/d/1qayPcmDcx3eSdpTdgxWnz0UdXD4vW3-sUwhk7IS1GAw/edit?usp=sharing)
 
 [Manchester Homeless Hack - data sources](https://docs.google.com/document/d/1amuq4foA4ollNRz4SQI1OPIBZPGsWF86J5in9T3nkoA/edit?usp=sharing)
+
+[Manchester Homeless Hack - Insights Trello Board](https://trello.com/b/qKJnXXG5)
 
 [Folder for write ups](https://drive.google.com/drive/mobile/folders/0Bw75qK9Aqm79djlka1gteThCV00?urp=https://t.co/Y663sovChl?amp%3D1)
 
 [Some hints and tips to get started with prototypes](https://homelesshack.github.io/homelesstemplate/)
 
-[Insights Trello board](https://trello.com/b/7KCrWt32/homeless-hack-research-analysis)
+[London Insights Trello board](https://trello.com/b/7KCrWt32/homeless-hack-research-analysis)
 
 [London - Data sources and data ideas](https://docs.google.com/document/d/1vqk_3hoVlpTnv8Q8_TnOQDM94UX_e3JH9PmiJ3W43kE/edit?usp=sharing)
 
