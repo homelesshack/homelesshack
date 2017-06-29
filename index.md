@@ -40,7 +40,7 @@ Small groups are organising events or trying out new ideas. We have provided [li
 
 ## Useful Links
 
-Slack channel for Manchester event: https://join.slack.com/homeless-hack-mcr/shared_invite/MjAzMDUwNzMwOTQ1LTE0OTg0OTIzMDEtNGVlOGZjZTZjOQ
+[Slack channel for Manchester event](https://join.slack.com/homeless-hack-mcr/shared_invite/MjAzMDUwNzMwOTQ1LTE0OTg0OTIzMDEtNGVlOGZjZTZjOQ)
 
 [Folder for write ups](https://drive.google.com/drive/mobile/folders/0Bw75qK9Aqm79djlka1gteThCV00?urp=https://t.co/Y663sovChl?amp%3D1)
 
