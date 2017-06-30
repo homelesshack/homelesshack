@@ -12,11 +12,18 @@ Small groups are organising events or trying out new ideas. We have provided [li
 
 ## Projects in progress
 
+London projects:
+
 - Better matching of volunteer supply and demand
 - Mining and analysing data on housing benefit rates and actual rents
 - Research on building conversations and relationships
 - Prototyping street furniture to help people meet and engage
 - Safe space knowledge for frontline police officers
+
+Manchester projects (underway):
+
+ - Mapping organisations and matching to individuals
+ - Homeless lottery
 
 ## Event details
 
