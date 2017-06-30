@@ -26,6 +26,7 @@ Manchester projects (underway):
 - Connecting charities together through social media to jointly fund and raise awareness
 - Deciphering root causes to aid prevention through understanding real stories and risks
 - Platform to connection spares rooms and loving homes with vulnerable people
+- A way to inform the appropriate organisations that someone needs help before alerting the police
 
 ## Event details
 
