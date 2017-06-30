@@ -22,7 +22,7 @@ London projects:
 
 Manchester projects (underway):
 
-- Ways to connect individuals and organisations for better outcomes
+- Mapping the landscape to understand the best path for individuals at risk
 - Connecting charities together through social media to jointly fund and raise awareness
 - Deciphering root causes to aid prevention through understanding real stories and risks
 - Platform to connection spares rooms and loving homes with vulnerable people
