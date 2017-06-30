@@ -23,11 +23,14 @@ Small groups are organising events or trying out new ideas. We have provided [li
 ### [Manchester 30th June - 1st July 2017](https://www.manchesterdigital.com/events/homelesshack)
 [Manchester Session Grid](062017manchester.md)
 
+### [East London 8th July 2017](https://www.eventbrite.com/e/homelesshack-east-london-tickets-35705441938)
+
 ### Leeds (tbc)
 
-### Bristol (tbc)
+### Oxford 28th - 29th July 2017 (provisional)
+@OxfordHackspace
 
-### Oxford (tbc)
+### Bristol (tbc)
 
 ### Cambridge (tbc)
 
