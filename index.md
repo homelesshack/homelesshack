@@ -30,21 +30,20 @@ Manchester projects (underway):
 
 ## Event details
 
-### [Manchester 30th June - 1st July 2017](https://www.manchesterdigital.com/events/homelesshack)
-[Manchester Session Grid](062017manchester.md)
-
 ### [East London 8th July 2017](https://www.eventbrite.com/e/homelesshack-east-london-tickets-35705441938)
 
 ### Leeds (tbc)
 
-### Oxford 28th - 29th July 2017 (provisional)
-@OxfordHackspace
+### [Oxford 28th - 29th July 2017](https://www.eventbrite.co.uk/e/homelesshack-oxford-tickets-35853392462)
 
 ### Bristol (tbc)
 
 ### Cambridge (tbc)
 
 ## Past Events
+### [Manchester 30th June - 1st July 2017](https://www.manchesterdigital.com/events/homelesshack)
+[Manchester Session Grid](062017manchester.md)
+
 ### [London 23rd - 24th June 2017](https://www.eventbrite.com/e/homelesshack-tickets-32406738427)
 [London Session Grid](062017london.md)
 
