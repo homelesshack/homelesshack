@@ -32,7 +32,7 @@ Manchester projects (underway):
 
 ### [East London 8th July 2017](https://www.eventbrite.com/e/homelesshack-east-london-tickets-35705441938)
 
-### Leeds (tbc)
+### [Leeds 21st - 22nd July 2017](https://www.eventbrite.co.uk/e/leeds-homelesshack-tickets-35754194759)
 
 ### [Oxford 28th - 29th July 2017](https://www.eventbrite.co.uk/e/homelesshack-oxford-tickets-35853392462)
 
