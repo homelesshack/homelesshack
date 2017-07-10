@@ -32,11 +32,12 @@ Manchester projects (underway):
 
 ### [Leeds 21st - 22nd July 2017](https://www.eventbrite.co.uk/e/leeds-homelesshack-tickets-35754194759)
 
-### [Oxford 28th - 29th July 2017](https://www.eventbrite.co.uk/e/homelesshack-oxford-tickets-35853392462)
-
 ### Bristol (tbc)
 
 ### Cambridge (tbc)
+
+### Oxford (tbc)
+[Homelesshack Oxford: why we’ve cancelled it (for now at least)](https://medium.com/@Ox1Digital/homelesshack-oxford-why-weve-cancelled-it-for-now-at-least-de8394bf72d6)
 
 *More to come soon*
 
