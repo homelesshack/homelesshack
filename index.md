@@ -28,6 +28,15 @@ Manchester projects (underway):
 - Platform to connection spares rooms and loving homes with vulnerable people
 - Ways to inform the appropriate organisations that someone needs help before alerting the police
 
+Leeds Projects:
+
+- Setting up a GitHub repository to help Simon on the Streets (a local homelessness charity) run more efficiently
+- Designing a leaflet to educate the public on how they can help homeless people on the street 
+- Using data to provide personalised interventions to prevent homelessness before it happens
+- Using Twitter to toggle publicised availability of charity services
+- Stop homeless people having to give their life story for every service they try to access
+
+
 ## Event details
 
 ### [Leeds 21st - 22nd July 2017](https://www.eventbrite.co.uk/e/leeds-homelesshack-tickets-35754194759)
@@ -42,6 +51,10 @@ Manchester projects (underway):
 *More to come soon*
 
 ## Past Events
+
+### [Leeds 21st - 22nd July]()
+[Write-up, contacts and code](https://docs.google.com/document/d/1ELliS8i11yMW2ITrP1-DTclmMTPoXgwzLLbRclAAClE/edit?usp=sharing)
+
 ### [East London 8th July 2017](https://www.eventbrite.com/e/homelesshack-east-london-tickets-35705441938)
 
 ### [Manchester 30th June - 1st July 2017](https://www.manchesterdigital.com/events/homelesshack)
