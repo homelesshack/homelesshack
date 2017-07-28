@@ -39,8 +39,6 @@ Leeds Projects:
 
 ## Event details
 
-### [Leeds 21st - 22nd July 2017](https://www.eventbrite.co.uk/e/leeds-homelesshack-tickets-35754194759)
-
 ### Bristol (tbc)
 
 ### Cambridge (tbc)
@@ -52,7 +50,7 @@ Leeds Projects:
 
 ## Past Events
 
-### [Leeds 21st - 22nd July]()
+### [Leeds 21st - 22nd July 2017](https://www.eventbrite.co.uk/e/leeds-homelesshack-tickets-35754194759)
 [Write-up, contacts and code](https://docs.google.com/document/d/1ELliS8i11yMW2ITrP1-DTclmMTPoXgwzLLbRclAAClE/edit?usp=sharing)
 
 ### [East London 8th July 2017](https://www.eventbrite.com/e/homelesshack-east-london-tickets-35705441938)
