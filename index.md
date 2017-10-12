@@ -39,6 +39,9 @@ Leeds Projects:
 
 ## Event details
 
+### Manchester (On-going events)
+[Regular Raising Bee events each month](https://news.streetsupport.net/2017/09/14/raising-bee/)
+
 ### Bristol (tbc)
 
 ### Cambridge (tbc)
